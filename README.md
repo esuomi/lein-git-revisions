@@ -6,6 +6,9 @@
 
 Generate software revision strings based on Git and system context data.
 
+> ## Archival note
+> This library is no longer maintained, but remains functional. Its latest published version can be considered feature complete and has proven to be stable. If you need to modify the library in any way, do consider [forking](https://github.com/esuomi/git-revisions/fork).
+
 ## Quick Start
 
 > **This repository describes the use of git-revisions core!**
